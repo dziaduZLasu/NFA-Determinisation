@@ -1,0 +1,6 @@
+pl.aaugustyniak.finiteautomaton
+pl.aaugustyniak.finiteautomaton.controller
+pl.aaugustyniak.finiteautomaton.exceptions
+pl.aaugustyniak.finiteautomaton.model
+pl.aaugustyniak.finiteautomaton.parser
+pl.aaugustyniak.finiteautomaton.view
